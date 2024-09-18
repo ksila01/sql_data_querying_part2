@@ -28,6 +28,8 @@ Part 2 of the Maji Ndogo project expands the in-depth SQL analysis to further ad
 7. On average, how many people share a well? Round your answer to 0 decimals.
 8. Consider the query we used to calculate the total number of people served. Which line of code will calculate the total number of people using some sort of tap?
 9. Use the pivot table we created to determine the average queue times for the following times: Saturday from 12:00 to 13:00, Tuesday from 18:00 to 19:00, and Sunday from 09:00 to 10:00.
+***
 These SQL queries have been instrumental in extracting specific information, addressing data inconsistencies, and providing insights into various aspects related to the water crisis in Maji Ndogo.
+***
 
 
